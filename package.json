@@ -1,0 +1,21 @@
+{
+  "name": "utf8bts",
+  "version": "0.0.0",
+  "description": "Convert UTF-8 Buffer/Uint8Array to string, using either Buffer.toString, TextDecoder or plain javascript",
+  "main": "main.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/utf8bts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/utf8bts/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@chatiku.com>",
+  "license": "LGPL-3.0"
+}
